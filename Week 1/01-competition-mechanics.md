@@ -54,27 +54,44 @@ It will show your ranking compared with other participting teams alongside their
 
 It's a complicatied process whch includes:
 **1. understanding of business problem**
+
 What do we want to do? For what? How it can help the users?
+
 **2. problem formalization**
+
 **3. data collection**
+
 What data can we use? How to mine examples of spam and not-spam?
+
 **4. data cleaning and preprocessing**
+
 **5. modelling**
+
 What model is appropiate for this particular task? How to measure performance? How to select the best model?
+
 **6. evaluate in real life**
+
 We should ensure it works in real scenarios as expected and there was no bias introduces in learning process.
+
 **7. deploy**
+
 
 ### Competitions
 
 For competitions, it's a much simpler process
 
 **<del>1. understanding of business problem</del> Maybe?**
+
 **<del>2. problem formalization</del>**
+
 **<del>3. data collection</del> Maybe?**
+
 **4. data cleaning and preprocessing**
+
 **5. modelling**
+
 **<del>6. evaluate in real life</del>**
+
 **<del>7. deploy</del>**
 
 <p align="center">
